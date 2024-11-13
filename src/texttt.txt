@@ -1,0 +1,4 @@
+background-image: url('https://png.pngtree.com/thumb_back/fw800/background/20231001/pngtree-illustration-of-a-growing-stack-of-coins-signifying-the-increase-in-image_13519811.png'); /* Path to the image */
+background-size: 50rem; /* Scales the image to cover the entire div */
+background-position: center; /* Centers the image */
+background-repeat: no-repeat; /* Prevents the image from repeating */
